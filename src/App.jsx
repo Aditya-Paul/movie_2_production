@@ -10,6 +10,7 @@ function App() {
 
       {/* for home section*/}
       <div className='main_container'>
+        <h1>first commit</h1>
         <Home></Home>
       </div>
 
